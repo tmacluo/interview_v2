@@ -1,4 +1,4 @@
-package com.airwallex.rpn.Memento;
+package com.airwallex.rpn.memento;
 
 import java.util.Stack;
 

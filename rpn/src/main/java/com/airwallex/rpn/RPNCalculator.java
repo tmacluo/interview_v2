@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-import com.airwallex.rpn.Memento.MementoCaretaker;
+import com.airwallex.rpn.memento.MementoCaretaker;
 import com.airwallex.rpn.operator.Operator;
 import com.airwallex.rpn.operator.OperatorFactory;
 import com.airwallex.rpn.util.CalculatorUtil;
